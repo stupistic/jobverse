@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.child {
+  display: flex;
+  width: 70%;
+  height: 100%;
+  margin: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
